@@ -1,0 +1,3 @@
+key_id,modulus,factor_p,factor_q,shared_factor,other_factor,status,public_exponent,private_exponent_d,demo_ciphertext,decrypted_message,decryption_test,message_source
+1,11413,101,113,101,113,COMPROMISED - shared prime factor,65537,7873,4901,42,PASS,Synthetic demonstration only; not organizer-provided ciphertext
+2,12827,101,127,101,127,COMPROMISED - shared prime factor,65537,10673,4832,43,PASS,Synthetic demonstration only; not organizer-provided ciphertext
